@@ -1,0 +1,14 @@
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello world! I am BOF.");
+    System.out.println("Well, I happen to be the first child with 7 siblings,");
+    System.out.println("I am a graduate of Economics Education from the University of Ilorin and");
+    System.out.println("I hold a Master's degree in Transportation Planning and Management from the University of Lagos.");
+    System.out.println("I am a father to 2 beautiful kids, Adnan and Mirah.");
+    System.out.println("I work with a reputable company,");
+    System.out.println("My work schedule is a bit tedious because it is a shift cycle,");
+    System.out.println("I work 7-7(5 days, 2 days off and 5 nights, 3 days off).");
+    System.out.println("I look forward to better opportunities.");
+    System.out.println("Thank you.");
+    }
+}
